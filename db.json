@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 002",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
-    },
-    {
-      "message": "1122 wireless down",
+      "id": 3,
+      "message": "fixed the problem",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
+      "tech": "anis molla",
+      "date": "2021-12-07T18:00:17.023Z"
     },
     {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
+      "id": 6,
+      "message": "1122 wireless down,please fixed that hurry up!",
+      "attention": true,
+      "tech": "sam smith",
+      "date": "2021-12-07T17:14:29.706Z"
+    },
+    {
+      "id": 7,
+      "message": "fix the of code 121034",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "tech": "sam smith",
+      "date": "2021-12-07T15:59:44.081Z"
     }
   ],
   "techs": [
@@ -44,11 +37,6 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
-    },
-    {
-      "id": 4,
-      "firstName": "anis",
-      "lastName": "molla"
     }
   ]
 }
